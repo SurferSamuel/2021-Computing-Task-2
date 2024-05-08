@@ -2,9 +2,9 @@
 
 Chess, written in python using tkinter. Inspired by [chess.com](https://chess.com).
 
-## Quick Demo Video
+## Demo Video
 
-TODO
+https://github.com/SurferSamuel/Chess/assets/60723656/52e2378a-ff14-4769-8b65-17d2d6447ce0
 
 ## Installation
 
