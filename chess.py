@@ -1,6 +1,6 @@
 from tkinter import *
 from PIL import ImageTk, Image
-import time, copy
+import copy
 
 # Create Window
 root = Tk()
